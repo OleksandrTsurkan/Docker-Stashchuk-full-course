@@ -1,1 +1,5 @@
 ![image](https://github.com/OleksandrTsurkan/Docker-Stashchuk-full-course/assets/126093146/0492f99d-200e-4564-a75e-b2291fecc5fc)
+![image](https://github.com/OleksandrTsurkan/Docker-Stashchuk-full-course/assets/126093146/c3d06e45-6534-4414-b1ac-384cd074f8ae)
+![image](https://github.com/OleksandrTsurkan/Docker-Stashchuk-full-course/assets/126093146/60b07f1b-51f6-45e6-8aab-3149cb5d9ecf)
+![image](https://github.com/OleksandrTsurkan/Docker-Stashchuk-full-course/assets/126093146/81329144-94da-417f-a17d-5260593ea70e)
+![image](https://github.com/OleksandrTsurkan/Docker-Stashchuk-full-course/assets/126093146/2189bfb2-94ca-468c-a4a7-ace3b6714f09)
